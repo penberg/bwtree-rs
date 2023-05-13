@@ -1,0 +1,9 @@
+[package]
+name = "bwtree-rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[dev-dependencies]
+shuttle = "0.6.0"
